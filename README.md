@@ -1,4 +1,5 @@
-#Pair Trading
+# Pair Trading
+
 
 The provided Python code orchestrates a comprehensive analysis and implementation of a cryptocurrency trading strategy. 
 Leveraging historical price data for Bitcoin and Ethereum, the code commences by merging datasets and imputing missing values to ensure a robust foundation for subsequent analysis.
